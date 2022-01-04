@@ -16,5 +16,6 @@ public class first {
 
         dog dog = new dog();
         System.out.println(new dog("malta", 3));
+        System.out.println(123123123);
     }
 }
