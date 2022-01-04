@@ -5,6 +5,9 @@ public class human {
     private String name;
     private int age;
 
+    public human() {
+    }
+
     public human(String name, int age) {
         this.name = name;
         this.age = age;
