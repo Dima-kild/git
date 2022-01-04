@@ -18,5 +18,6 @@ public class first {
         System.out.println(new dog("malta", 3));
         System.out.println(123123123);
         System.out.println(12);
+        System.out.println(123);
     }
 }
